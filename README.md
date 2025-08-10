@@ -39,9 +39,3 @@ The `ISRM Final.pdf` file provides a comprehensive analysis of the security asse
 * **Methodology**: The approach and tools used during the assessment.
 * **Findings**: Identified vulnerabilities and their potential impact.
 * **Recommendations**: Suggested remediation actions to mitigate risks.
-
-
-
-
-
-l free to customize this template further to better fit your project's specifics.
